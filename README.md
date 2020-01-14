@@ -2,7 +2,5 @@
   <title>
     test
   </title>
-  <h1>
-    web1 
-  </h1>
+<img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/socialmedia/apple/237/thinking-face_1f914.png">
   </html>
