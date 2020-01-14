@@ -1,9 +1,8 @@
-<!doctype html>
 <html>
   <title>
     test
   </title>
-  <head>
+  <h1>
     web1 
-  </head>
+  </h1>
   </html>
